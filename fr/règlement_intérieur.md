@@ -2,7 +2,9 @@
 
 ## Article 1 : décisions
 
-Les discussions et décisions des adhérents concernant l'association se font par écrit via internet.
+Les discussions et décisions des adhérents concernant l'association se font par écrit via internet et sont archivées.
+
+Chaque adhérent reçoit automatiquement les messages des autres adhérents par un moyen raisonnablement fiable et rapide.
 
 ## Article 2 : consensus
 

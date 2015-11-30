@@ -2,7 +2,9 @@
 
 ## Article 1: decisions
 
-The discussions and decisions of the members concerning the organization shall happen by exchanging text messages through the Internet.
+The discussions and decisions of the members concerning the organization happen by exchanging text messages through the Internet and are archived.
+
+Each members automatically receives the messages of the other members in a reasonably reliable and fast way.
 
 ## Article 2: consensus
 
