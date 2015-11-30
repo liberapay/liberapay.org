@@ -17,7 +17,7 @@ By default the decisions concerning the organization are taken by consensus, inc
 
 There is consensus when at least half of the members approve the decision, and no member has a significant and reasonable objection.
 
-The members have one week to voice their objections, afterwards it is assumed that they have none.
+The members have two weeks to voice their objections, afterwards it is assumed that they have none.
 
 ## Article 3: representative
 

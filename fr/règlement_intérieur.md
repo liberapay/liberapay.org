@@ -17,7 +17,7 @@ Par défaut les décisions concernant l'association sont prises par consensus, n
 
 Il y a consensus quand la moitié au moins des adhérents approuve la décision, et qu'aucun adhérent n'a d'objection importante et raisonnable.
 
-Les adhérents ont une semaine pour exprimer des objections, passé ce délai on considère qu'ils n'en ont pas.
+Les adhérents ont deux semaines pour exprimer des objections, passé ce délai on considère qu'ils n'en ont pas.
 
 ## Article 3 : représentant
 
