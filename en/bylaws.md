@@ -28,6 +28,8 @@ The organization's rules of procedure are stated in a separate document.
 
 The decisions concerning the organization are taken collectively by its members in the manner defined by the rules of procedure.
 
+The members are jointly responsible for the organization and all hold the title of codirector.
+
 ## Article 7: admission
 
 Any natural or legal person, French or foreign, that wishes to participate in the fulfillment of the association's goal, and which doesn't have an interest in seeing it fail, may apply for membership. Each request is subject to the approval of members.

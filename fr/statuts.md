@@ -28,6 +28,8 @@ Un règlement intérieur complète les présents statuts.
 
 Les décisions concernant l'association sont prises collectivement par les adhérents selon les modalités définies par le règlement intérieur.
 
+Les adhérents sont coresponsables de l'association et portent tous le titre de codirecteur.
+
 ## Article 7 : admission
 
 Toute personne physique ou morale, française ou étrangère, qui souhaite participer à l'accomplissement de la mission de l'association, et qui n'a pas d'intérêt à la voir échouer, peut demander à adhérer. Chaque demande est soumise à l'approbation des adhérents.
