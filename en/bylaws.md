@@ -32,7 +32,7 @@ The members are jointly responsible for the organization and all hold the title 
 
 ## Article 7: admission
 
-Any natural or legal person, French or foreign, that wishes to participate in the fulfillment of the association's goal, and which doesn't have an interest in seeing it fail, may apply for membership. Each request is subject to the approval of members.
+Any natural or legal person, French or foreign, that wishes to participate in the fulfillment of the association's goal, may apply for membership. Requests are subject to the approval of members, who verify that the candidates understand the responsibilities attached to membership, and that they don't have an interest in seeing the organization fail in its mission.
 
 ## Article 8: removal
 

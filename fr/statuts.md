@@ -32,7 +32,7 @@ Les adhérents sont coresponsables de l'association et portent tous le titre de 
 
 ## Article 7 : admission
 
-Toute personne physique ou morale, française ou étrangère, qui souhaite participer à l'accomplissement de la mission de l'association, et qui n'a pas d'intérêt à la voir échouer, peut demander à adhérer. Chaque demande est soumise à l'approbation des adhérents.
+Toute personne physique ou morale, française ou étrangère, qui souhaite participer à l'accomplissement de la mission de l'association, peut demander à adhérer. Les candidatures sont soumises à l'approbation des adhérents, qui vérifient notamment que les candidats comprennent les responsabilités attachées au statut d'adhérent, et qu'ils n'ont pas d'intérêt à voir l'association échouer dans sa mission.
 
 ## Article 8 : radiation
 
