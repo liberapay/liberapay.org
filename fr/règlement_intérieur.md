@@ -35,7 +35,7 @@ L'exclusion d'un adhérent nécessite un vote à l'unanimité des autres adhére
 
 ## Article 5 : langues
 
-Les statuts, le règlement intérieur, et tout autre document pertinent sont traduits en anglais.
+Les documents pertinents qui sont en français par obligation légale, notamment les statuts et le règlement intérieur, sont en outre traduits en anglais.
 
 Les discussions et décisions ont lieu ou sont traduites en anglais.
 

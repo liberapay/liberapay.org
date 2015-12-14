@@ -35,7 +35,7 @@ The exclusion of a member requires a unanimous vote of the other members.
 
 ## Article 5: languages
 
-The bylaws, rules of procedure, and any other relevant document are translated into English.
+The relevant documents that are by legal obligation written in French, such as the bylaws and rules of procedure, are in addition translated into English.
 
 The discussions and decisions are either held in English or translated into it.
 
