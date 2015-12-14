@@ -2,7 +2,7 @@
 
 ## Article 1
 
-By the signatories of this document is founded a non-profit organization based on the law of July 1st 1901.
+By the signatories of this document is founded a non-profit collegial organization based on the law of July 1st 1901.
 
 Its name is “Liberapay”.
 

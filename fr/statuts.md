@@ -2,7 +2,7 @@
 
 ## Article premier
 
-Entre les adhérents aux présents statuts est fondée une association à but non lucratif régie par la loi du 1er juillet 1901.
+Entre les adhérents aux présents statuts est fondée une association collégiale à but non lucratif régie par la loi du 1er juillet 1901.
 
 Son nom est « Liberapay ».
 
