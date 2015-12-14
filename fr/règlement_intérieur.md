@@ -13,7 +13,7 @@ Par défaut les décisions concernant l'association sont prises par consensus, n
 - l'utilisation de la trésorerie
 - toute décision pouvant mener à l'endettement de l'association
 - l'admission d'un nouvel adhérent
-- l'élection du représentant légal de l'association
+- l'élection des représentants de l'association
 - la modification des statuts, du règlement intérieur, ou des conditions d'utilisation du service
 - la dissolution de l'association
 
@@ -21,13 +21,13 @@ Il y a consensus quand la moitié au moins des adhérents approuve la décision,
 
 Les adhérents ont deux semaines pour exprimer des objections, passé ce délai on considère qu'ils n'en ont pas.
 
-## Article 3 : représentant
+## Article 3 : représentation
 
-Les adhérents de l'association élisent un représentant légal parmi eux.
+Les adhérents élisent au moins un des leurs pour représenter l'association auprès des institutions tierces (banques, services de l'état, etc).
 
 Le mandat de représentant est d'un an renouvelable indéfiniment.
 
-Une élection anticipée est organisée quand le représentant démissionne ou se retrouve dans l'incapacité d'accomplir ses fonctions.
+Une élection anticipée est organisée quand un représentant démissionne ou se retrouve dans l'incapacité d'accomplir ses fonctions.
 
 ## Article 4 : exclusion
 

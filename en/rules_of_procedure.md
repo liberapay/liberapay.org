@@ -13,7 +13,7 @@ By default the decisions concerning the organization are taken by consensus, inc
 - the use of its monetary resources
 - any decision that could result in its becoming indebted
 - the admission of a new member
-- the election of its legal representative
+- the election of its representatives
 - the modification of its bylaws, rules of procedure, or terms of service
 - the dissolution of the association
 
@@ -21,13 +21,13 @@ There is consensus when at least half of the members approve the decision, and n
 
 The members have two weeks to voice their objections, afterwards it is assumed that they have none.
 
-## Article 3: representative
+## Article 3: representation
 
-The members of the organization elect a legal representative among themselves.
+The members elect at least one of their own to represent the organization in its relations with third-party institutions (banks, governmental agencies, etc).
 
 The mandate of representative lasts one year, renewable indefinitely.
 
-An early election is held when the representative resigns or becomes unable to fulfill the mandate.
+An early election is held when a representative resigns or becomes unable to fulfill the mandate.
 
 ## Article 4: exclusion
 
