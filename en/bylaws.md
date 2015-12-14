@@ -38,7 +38,7 @@ Any natural or legal person, French or foreign, that wishes to participate in th
 
 The status of member is lost:
 
-- by detah for individuals or dissolution for organizations
+- by death for individuals or dissolution for organizations
 - by resignation
 - by exclusion (decided in the manner defined by the rules of procedure)
 
