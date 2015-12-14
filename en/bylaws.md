@@ -40,7 +40,7 @@ The status of member is lost:
 
 - by detah for individuals or dissolution for organizations
 - by resignation
-- by exclusion
+- by exclusion (decided in the manner defined by the rules of procedure)
 
 ## Article 9: transparency
 

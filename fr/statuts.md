@@ -40,7 +40,7 @@ La qualité d'adhérent se perd :
 
 - par décès pour les personnes physiques ou dissolution pour les personnes morales
 - par démission
-- par exclusion
+- par exclusion (selon les modalités prévues dans le règlement intérieur)
 
 ## Article 9 : transparence
 
