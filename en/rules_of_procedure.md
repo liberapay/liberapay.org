@@ -43,4 +43,4 @@ The discussions and decisions are either held in English or translated into it.
 
 The finances of the organization are public.
 
-The discussions and decisions are public except when secrecy is required.
+The discussions and decisions are public except when secrecy is legally or contractually required.

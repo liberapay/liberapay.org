@@ -43,4 +43,4 @@ Les discussions et décisions ont lieu ou sont traduites en anglais.
 
 Les finances de l'association sont publiques.
 
-Les discussions et décisions sont publiques sauf quand le secret est nécessaire.
+Les discussions et décisions sont publiques sauf quand le secret est légalement ou contractuellement obligatoire.
