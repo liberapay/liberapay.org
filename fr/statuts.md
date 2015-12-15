@@ -48,6 +48,10 @@ L'association est gérée de manière transparente et le code source du service 
 
 Les utilisateurs du service fourni par l'association sont notifiés de toute modification des présents statuts ou des conditions d'utilisation du service.
 
-## Article 10 : dissolution
+## Article 10 : neutralité
+
+Le service est ouvert à tous, l'association n'exclut un utilisateur que si elle en a l'obligation légale ou contractuelle.
+
+## Article 11 : dissolution
 
 En cas de dissolution, l'actif net de l'association est reversé aux donateurs dont il provient.

@@ -48,6 +48,10 @@ The organization is managed transparently and the source code of the computer se
 
 Users of the service provided by the organization are notified of any changes to the present articles or the terms of service.
 
-## Article 10: dissolution
+## Article 10: neutrality
+
+The service is open to all, the organization only excludes a user if it has a legal or contractual obligation to do so.
+
+## Article 11: dissolution
 
 In case of dissolution, the net assets of the organization shall be refunded to the donors they came from.
