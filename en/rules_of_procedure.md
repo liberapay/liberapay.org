@@ -1,6 +1,6 @@
 # Rules of procedure of the Liberapay organization
 
-## Article 1: decisions
+## Article 1: communication
 
 The discussions and decisions of the members concerning the organization happen by exchanging text messages through the Internet and are archived.
 

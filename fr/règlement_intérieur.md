@@ -1,6 +1,6 @@
 # Règlement intérieur de l'association Liberapay
 
-## Article 1 : décisions
+## Article 1 : communication
 
 Les discussions et décisions des adhérents concernant l'association se font par écrit via internet et sont archivées.
 
