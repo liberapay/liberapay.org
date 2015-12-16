@@ -44,3 +44,5 @@ The discussions and decisions are either held in English or translated into it.
 The finances of the organization are public.
 
 The discussions and decisions are public except when secrecy is legally or contractually required.
+
+A report on the status of the association is written by the members at least once a year, and sent through the internet to the users of the service who have opted to receive it.

@@ -44,3 +44,5 @@ Les discussions et décisions ont lieu ou sont traduites en anglais.
 Les finances de l'association sont publiques.
 
 Les discussions et décisions sont publiques sauf quand le secret est légalement ou contractuellement obligatoire.
+
+Un bilan de la situation de l'association est rédigé par les adhérents au moins une fois par an, et envoyé via internet aux utilisateurs du service qui ont indiqué vouloir le recevoir.
