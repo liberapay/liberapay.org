@@ -21,6 +21,8 @@ There is consensus when at least half of the members approve the decision, and n
 
 The members have two weeks to voice their objections, afterwards it is assumed that they have none.
 
+If after three weeks a consensus isn't reached, and the lack of decision prevents the organization from fulfilling its mission, then the choice that received the most votes is approved. If multiple choices have the same number of votes, then one is selected randomly.
+
 ## Article 3: representation
 
 The members elect at least one of their own to represent the organization in its relations with third-party institutions (banks, governmental agencies, etc).
@@ -31,7 +33,7 @@ An early election is held when a representative resigns or becomes unable to ful
 
 ## Article 4: exclusion
 
-The exclusion of a member requires a unanimous vote of the other members.
+The exclusion of a member requires the approval of an absolute majority of members. The vote lasts one week, during this time the voters can change their votes and the targeted member can defend themself or resign.
 
 ## Article 5: languages
 

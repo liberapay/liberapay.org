@@ -21,6 +21,8 @@ Il y a consensus quand la moitié au moins des adhérents approuve la décision,
 
 Les adhérents ont deux semaines pour exprimer des objections, passé ce délai on considère qu'ils n'en ont pas.
 
+Si après trois semaines un consensus n'est pas atteint, et que l'absence de décision empêche l'association de remplir sa mission, alors le choix ayant recueilli le plus de votes est entériné. Si plusieurs choix sont à égalité, alors les adhérents en sélectionnent un par tirage au sort.
+
 ## Article 3 : représentation
 
 Les adhérents élisent au moins un des leurs pour représenter l'association auprès des institutions tierces (banques, services de l'état, etc).
@@ -31,7 +33,7 @@ Une élection anticipée est organisée quand un représentant démissionne ou s
 
 ## Article 4 : exclusion
 
-L'exclusion d'un adhérent nécessite un vote à l'unanimité des autres adhérents.
+L'exclusion d'un adhérent nécessite l'approbation d'une majorité absolue des adhérents. Le vote dure une semaine, durant cette période les votants peuvent changer d'avis et l'adhérant visé peut se défendre ou démissionner.
 
 ## Article 5 : langues
 
