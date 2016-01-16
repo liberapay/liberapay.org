@@ -11,19 +11,18 @@ The current legal representative is [Changaco](https://github.com/Changaco/)
 
 As stated in the rules of procedure, all discussions and decisions regarding
 the organization happen by exchanging text messages through the Internet.
-Right now we use GitHub's issues tracker for that, which is essentially the
-same as using a mailing list, except with a nicer web UI and per-thread
-(un)subscription. You should [subscribe to all discussions]
-(https://github.com/liberapay/liberapay.org/subscription) and make sure to
-[enable email notifications](https://github.com/settings/notifications).
+We use GitHub's issues tracker for that, which is an enhanced mailing list.
 
 Quick links:
 
+- [subscribe to all discussions](https://github.com/liberapay/liberapay.org/subscription) (make sure to [enable email notifications](https://github.com/settings/notifications))
 - [see the current discussions](https://github.com/liberapay/liberapay.org/issues?q=is%3Aopen)
 - [see the past discussions](https://github.com/liberapay/liberapay.org/issues?q=is%3Aclosed)
 - [start a new discussion](https://github.com/liberapay/liberapay.org/issues/new)
 
-The technical aspects of running the Liberapay service are discussed separately
-in the [liberapay.com repository](https://github.com/liberapay/liberapay.com).
+**Only post messages concerning the Liberapay legal organization here,
+technical discussions belong in the [liberapay.com repository]
+(https://github.com/liberapay/liberapay.com), and everything else in
+[the salon](https://github.com/liberapay/salon).**
 
 [1]: https://github.com/liberapay/liberapay.org/issues/2#issuecomment-166003076
