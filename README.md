@@ -7,7 +7,7 @@ French versions are in the [the fr/ directory]
 (https://github.com/liberapay/liberapay.org/tree/master/fr).
 
 The current legal representative is [Changaco](https://github.com/Changaco/)
-([elected on Dec 19, 2015][1]).
+([reelected on Dec 07, 2016][1]).
 
 As stated in the rules of procedure, all discussions and decisions regarding
 the organization happen by exchanging text messages through the Internet.
@@ -25,4 +25,4 @@ technical discussions belong in the [liberapay.com repository]
 (https://github.com/liberapay/liberapay.com), and everything else in
 [the salon](https://github.com/liberapay/salon).**
 
-[1]: https://github.com/liberapay/liberapay.org/issues/2#issuecomment-166003076
+[1]: https://github.com/liberapay/liberapay.org/issues/19
