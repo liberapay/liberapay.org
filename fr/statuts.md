@@ -10,7 +10,7 @@ Sa durée est illimitée.
 
 ## Article 2 : objet
 
-Cette association a pour mission de fournir un service informatique international facilitant les transactions monétaires liées au développement et à l'entretien de ressources communes.
+Cette association a pour mission de fournir un service informatique international facilitant les transferts monétaires liés au développement et à l'entretien de ressources communes.
 
 ## Article 3 : activité économique
 
