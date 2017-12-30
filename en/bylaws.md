@@ -10,7 +10,7 @@ Its duration is unlimited.
 
 ## Article 2: purpose
 
-The goal of this association is to provide an international computer service easing monetary donations between persons, natural as well as legal ones.
+The goal of this association is to provide an international computer service easing monetary transfers linked to the development and maintenance of common resources.
 
 ## Article 3: economic activity
 
